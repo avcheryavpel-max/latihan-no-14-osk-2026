@@ -1,0 +1,6 @@
+{
+  "name": "OSK Fisika 2026 – Latihan Khusus Soal No. 14 | Mister Jo",
+  "description": "Aplikasi pembelajaran dan latihan Olimpiade Sains Fisika tingkat Kabupaten/Kota (OSK 2026) materi Tumbukan Elastis Beruntun dan Optimasi Transfer Momentum (Soal No. 14) oleh Mister Jo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
